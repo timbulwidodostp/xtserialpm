@@ -2,4 +2,4 @@
 1
 2
 3
-p mcset The Model Confidence Set (MCS) Use mcset With STATA 19
+p xtserialpm Jochmans (2019) test for serial correlation in panel-data models Use xtserialpm With STATA 19
