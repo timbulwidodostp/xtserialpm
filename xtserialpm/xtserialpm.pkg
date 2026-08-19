@@ -1,0 +1,4 @@
+D 'mcset': The Model Confidence Set (MCS) Use mcset With STATA 19
+D
+F mcset.ado
+F mcset.sthlp
