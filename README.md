@@ -1,6 +1,8 @@
 # xtserialpm
 Jochmans (2019) test for serial correlation in panel-data models Use xtserialpm With STATA 19
 
+https://www.youtube.com/watch?v=S6l94DFHW9s
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
